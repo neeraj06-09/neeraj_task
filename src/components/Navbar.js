@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar__text">
         <div className="logo">
-          <img src="https://uspizza.in/images/logo.png" alt="logo" />
+          <img src="https://www.pinclipart.com/picdir/big/85-855196_stamp-clipart-pizza-logo-master-pizza-png-transparent.png" alt="logo" />
         </div>
         <ul className="navbar__ul">
           <li>
