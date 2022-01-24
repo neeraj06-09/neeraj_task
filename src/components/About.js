@@ -9,7 +9,7 @@ const About = () => {
             
             <h1>Our Story</h1>
             <p>
-            Contrary to industry standard strategy, USPizza, since 1996, has been committed to growing our brand slowly and steadily. Every outlet is carefully selected on strict criteria. To be a USPizza franchisee is a privilege unto itself.  </p>
+            Contrary to industry standard strategy, Pizza Master, since 1996, has been committed to growing our brand slowly and steadily. Every outlet is carefully selected on strict criteria. To be a USPizza franchisee is a privilege unto itself.  </p>
             <div className="about__btn">
               <a href="" className="btn btn-smart">
                 More About Us
